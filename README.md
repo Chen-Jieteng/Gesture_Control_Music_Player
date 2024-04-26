@@ -48,4 +48,4 @@ Don't forget to give the project a star! Thank you again for your support.
 Distributed under the MIT License. See LICENSE for more information.
 
 # Contact
-Project Link: [https://github.com/yourusername/gesture-controlled-mp3-player](http://liedwin.top/article/article-detail/16/)
+Project Link: http://liedwin.top/article/article-detail/16/
